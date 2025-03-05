@@ -1,0 +1,3187 @@
+# Kodi Media Center language file
+# Addon Name: Netflix
+# Addon id: skin.Netflix
+# Addon Provider: matke
+msgid ""
+msgstr ""
+"Project-Id-Version: KODI Skins\n"
+"Report-Msgid-Bugs-To: http://trac.kodi.tv/\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Kodi Translation Team\n"
+"Language-Team: Français (France) (http://www.transifex.com/projects/p/kodi-skins/language/fr FR/)\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Netflix Strings
+
+#. first letter of 'Season'
+msgctxt "#31000"
+msgid "S"
+msgstr "S"
+
+#. first letter of 'Episode'
+msgctxt "#31001"
+msgid "E"
+msgstr "E"
+
+#. short naming for 'Episode'
+msgctxt "#31002"
+msgid "Ep"
+msgstr "EP"
+
+msgctxt "#31003"
+msgid "Header text color"
+msgstr "Couleur du texte de l'en-tête"
+
+msgctxt "#31004"
+msgid "Moving focus frame"
+msgstr "Cadre de mise au point en mouvement"
+
+msgctxt "#31005"
+msgid "General skin settings"
+msgstr "Paramètres généraux du skin"
+
+msgctxt "#31006"
+msgid "Shadowcolor for unfocused lyrics text"
+msgstr "Shadowcolor pour paroles non focalisées texte"
+
+msgctxt "#31007"
+msgid "New Episodes"
+msgstr "Nouveaux épisodes"
+
+msgctxt "#31008"
+msgid "color for indicator background"
+msgstr "Couleur pour l'arrière-plan de l'indicateur"
+
+msgctxt "#31009"
+msgid "Use advanced layout"
+msgstr "Utiliser la mise en page avancée"
+
+msgctxt "#31010"
+msgid "TMDb Helper search content"
+msgstr "Contenu de recherche d'assistance TMDB"
+
+msgctxt "#31011"
+msgid "Button focus text color (bordered focus)"
+msgstr "Couleur du texte de la mise au point des bouton (Focus bordé)"
+
+msgctxt "#31012"
+msgid "Up next addon option"
+msgstr "Up Next Addon Option"
+
+msgctxt "#31013"
+msgid "Configure shortcuts"
+msgstr "Configurer les raccourcis"
+
+msgctxt "#31014"
+msgid "Edit menu shortcuts"
+msgstr "Modifier les raccourcis du menu"
+
+msgctxt "#31015"
+msgid "Button text color"
+msgstr "Couleur du texte du bouton"
+
+msgctxt "#31016"
+msgid "Netflix layout playback & OSD"
+msgstr "Netflix Layout Playback et OSD"
+
+msgctxt "#31017"
+msgid "Use alternative video OSD layout"
+msgstr "Utiliser une disposition vidéo OSD alternative"
+
+msgctxt "#31018"
+msgid "Netflix Main Landscape"
+msgstr "Paysage principal de Netflix"
+
+msgctxt "#31019"
+msgid "Progress bar color"
+msgstr "Couleur de la barre de progression"
+
+msgctxt "#31020"
+msgid "Progress bar background color"
+msgstr "Couleur d'arrière-plan de la barre de progression"
+
+msgctxt "#31021"
+msgid "Watch credits"
+msgstr "Regarder les crédits"
+
+msgctxt "#31022"
+msgid "Background settings"
+msgstr "Paramètres d'arrière-plan"
+
+msgctxt "#31023"
+msgid "Rated"
+msgstr "Classé"
+
+msgctxt "#31024"
+msgid "Force stop playback when not in fullscreen mode (exc. live TV)"
+msgstr ""
+"Force Stop Playback lorsqu'il n'est pas en mode plein écran (Ex. Live TV)"
+
+msgctxt "#31025"
+msgid "Categories"
+msgstr "Catégories"
+
+msgctxt "#31026"
+msgid "Search for addons"
+msgstr "Rechercher des addons"
+
+msgctxt "#31027"
+msgid "Netflix Main Poster"
+msgstr "Affiche principale de Netflix"
+
+msgctxt "#31028"
+msgid "Shadowcolor for focused lyrics text"
+msgstr "Shadowcolor pour paroles focalisées"
+
+msgctxt "#31029"
+msgid "Pink"
+msgstr "Rose"
+
+msgctxt "#31030"
+msgid "Display weather"
+msgstr "Afficher la météo"
+
+msgctxt "#31031"
+msgid "Enable FanArt"
+msgstr "Activer Fanart"
+
+msgctxt "#31032"
+msgid "OSD progress bar background color"
+msgstr "Couleur d'arrière-plan de la barre de progression OSD"
+
+msgctxt "#31033"
+msgid "OSD progress bar color"
+msgstr "Couleur de la barre de progression OSD"
+
+msgctxt "#31034"
+msgid "items total"
+msgstr "Articles total"
+
+msgctxt "#31035"
+msgid "Movies in progress"
+msgstr "Films en cours"
+
+msgctxt "#31036"
+msgid "Search by TV Shows"
+msgstr "Recherche par Séries TV"
+
+msgctxt "#31037"
+msgid "Set default limit for items in widgets"
+msgstr "Définir la limite par défaut des éléments dans les widgets"
+
+msgctxt "#31038"
+msgid "Search Music Videos, Albums, Artists or Songs"
+msgstr "Recherchez des clips, des albums, des artistes ou des chansons"
+
+msgctxt "#31039"
+msgid "Disable 'New Episodes' indicator"
+msgstr "Désactiver l'indicateur de «nouveaux épisodes»"
+
+msgctxt "#31040"
+msgid "Now playing"
+msgstr "Jouer maintenant"
+
+msgctxt "#31041"
+msgid "Netflix splash image"
+msgstr "Image de démarrage Netflix"
+
+msgctxt "#31042"
+msgid "Enable studio logo"
+msgstr "Activer le logo Studio"
+
+msgctxt "#31043"
+msgid "OSD progress bar cache color"
+msgstr "Couleur du cache de la barre de progression OSD"
+
+msgctxt "#31044"
+msgid "OSD text color"
+msgstr "Couleur du texte OSD"
+
+msgctxt "#31045"
+msgid "Enable air date"
+msgstr "Activer la date de diffusion"
+
+msgctxt "#31046"
+msgid "Anime"
+msgstr "Anime"
+
+msgctxt "#31047"
+msgid "Secondary text color"
+msgstr "Couleur de texte secondaire"
+
+msgctxt "#31048"
+msgid "Home main menu focus icon color"
+msgstr "Couleur de l’icône de focus du menu principal d’accueil"
+
+msgctxt "#31049"
+msgid "Music & Musicals"
+msgstr "Musique et comédies musicales"
+
+msgctxt "#31050"
+msgid "All Movies"
+msgstr "Tous les films"
+
+msgctxt "#31051"
+msgid "All Shows"
+msgstr "Toutes les Séries"
+
+msgctxt "#31052"
+msgid "Widget Content"
+msgstr "Contenu du widget"
+
+msgctxt "#31053"
+msgid "Poster"
+msgstr "Affiche"
+
+msgctxt "#31054"
+msgid "Artwork"
+msgstr "Œuvres"
+
+msgctxt "#31055"
+msgid "Banner"
+msgstr "Bannière"
+
+msgctxt "#31056"
+msgid "Landscape"
+msgstr "Paysage"
+
+msgctxt "#31057"
+msgid "ClearArt"
+msgstr "Clearart"
+
+msgctxt "#31058"
+msgid "Recently Added Albums"
+msgstr "Albums récemment ajoutés"
+
+msgctxt "#31059"
+msgid "remaining"
+msgstr "restant"
+
+msgctxt "#31060"
+msgid "Show/hide OSD buttons"
+msgstr "Afficher / masquer les boutons OSD"
+
+msgctxt "#31061"
+msgid "for"
+msgstr "pour"
+
+msgctxt "#31062"
+msgid "YouTube"
+msgstr "YouTube"
+
+msgctxt "#31063"
+msgid ""
+"To apply the settings you must leave the current media folder or addon."
+msgstr ""
+"Pour appliquer les paramètres, vous devez laisser le dossier multimédia "
+"actuel ou l'addon."
+
+msgctxt "#31064"
+msgid "No items in this category."
+msgstr "Pas d'articles dans cette catégorie."
+
+msgctxt "#31065"
+msgid "Up Next"
+msgstr "Le prochain"
+
+msgctxt "#31066"
+msgid "Watch"
+msgstr "Regarder"
+
+msgctxt "#31067"
+msgid "Now"
+msgstr "Maintenant"
+
+msgctxt "#31068"
+msgid "Alternative layout playback & OSD"
+msgstr "Lecture de mise en page alternative et OSD"
+
+msgctxt "#31069"
+msgid "PVR Hub"
+msgstr "PVR Hub"
+
+msgctxt "#31070"
+msgid "Watch Season"
+msgstr "Regarder la saison"
+
+msgctxt "#31071"
+msgid "Setting level"
+msgstr "Niveau de réglage"
+
+msgctxt "#31072"
+msgid "Enable autoclose video OSD"
+msgstr "Activer la vidéo AutoClose OSD"
+
+msgctxt "#31073"
+msgid "Lock view"
+msgstr "Verrouiller la vue"
+
+msgctxt "#31074"
+msgid "Unlock view"
+msgstr "déverrouiller la vue"
+
+msgctxt "#31075"
+msgid "Enable startup animation in 4K"
+msgstr "Activer l'animation de démarrage en 4K"
+
+msgctxt "#31076"
+msgid "Switch Profiles"
+msgstr "Profils"
+
+msgctxt "#31077"
+msgid "Home main menu icon color"
+msgstr "Couleur d'icône du menu principal de l'accueil"
+
+msgctxt "#31078"
+msgid "Blockbuster Movies"
+msgstr "Films à succès"
+
+msgctxt "#31079"
+msgid "Bingeworthy TV Shows"
+msgstr "Séries TV dignes d'intérêt"
+
+msgctxt "#31080"
+msgid "Watch It Again"
+msgstr "Regardez à nouveau"
+
+msgctxt "#31081"
+msgid "Artists named"
+msgstr "Artistes nommés"
+
+msgctxt "#31082"
+msgid "Song titles related to"
+msgstr "Titres de chansons liés à"
+
+msgctxt "#31083"
+msgid "Active"
+msgstr "Actif"
+
+msgctxt "#31084"
+msgid "Video info additional info icon color"
+msgstr "Informations vidéo Informations supplémentaires Icône Couleur"
+
+msgctxt "#31085"
+msgid "Flags text color"
+msgstr "Couleur du texte des drapeaux"
+
+msgctxt "#31086"
+msgid "Add to My List"
+msgstr "Ajouter à ma liste"
+
+msgctxt "#31087"
+msgid "Notice"
+msgstr "Avis"
+
+msgctxt "#31088"
+msgid "Live TV"
+msgstr "Télévision en direct"
+
+msgctxt "#31089"
+msgid "Crew"
+msgstr "Équipe"
+
+msgctxt "#31090"
+msgid "Large color icons"
+msgstr "Grandes icônes de couleur"
+
+msgctxt "#31091"
+msgid "Remove from My List"
+msgstr "Supprimer de ma liste"
+
+msgctxt "#31092"
+msgid "Unwatched Episodes"
+msgstr "Épisodes non regardés"
+
+msgctxt "#31093"
+msgid "Progress bar text color"
+msgstr "Couleur du texte de la barre de progression"
+
+msgctxt "#31094"
+msgid "Wikipedia"
+msgstr "Wikipedia"
+
+msgctxt "#31095"
+msgid "Netflix Seasons"
+msgstr "Saisons de Netflix"
+
+msgctxt "#31096"
+msgid "OSD primary text color"
+msgstr "Couleur du texte primaire OSD"
+
+msgctxt "#31097"
+msgid "OSD details row text color"
+msgstr "Couleur du texte de la ligne de détails OSD"
+
+msgctxt "#31098"
+msgid "Critically Acclaimed TV Shows"
+msgstr "Séries TV acclamées par la critique"
+
+msgctxt "#31099"
+msgid "Square"
+msgstr "Carré"
+
+msgctxt "#31100"
+msgid "Starring"
+msgstr "En vedette"
+
+msgctxt "#31101"
+msgid "Recently Added TV Shows"
+msgstr "Séries TV récemment ajoutées"
+
+msgctxt "#31102"
+msgid "Label text color"
+msgstr "Étiqueter la couleur du texte"
+
+msgctxt "#31103"
+msgid "OSD label text color"
+msgstr "Couleur du texte de l'étiquette OSD"
+
+msgctxt "#31104"
+msgid "Season Greetings"
+msgstr "Season Greetings"
+
+msgctxt "#31105"
+msgid "color for indicator text"
+msgstr "Couleur pour le texte de l'indicateur"
+
+msgctxt "#31106"
+msgid "Formed"
+msgstr "Formé"
+
+msgctxt "#31107"
+msgid "Disbanded"
+msgstr "Dissous"
+
+msgctxt "#31108"
+msgid "Released"
+msgstr "Libéré"
+
+msgctxt "#31109"
+msgid "Album"
+msgstr "Album"
+
+msgctxt "#31110"
+msgid "Movies, TV Shows and People"
+msgstr "Films, Séries TV et personnes"
+
+msgctxt "#31111"
+msgid "Written by"
+msgstr "Écrit par"
+
+msgctxt "#31112"
+msgid "Finishes at"
+msgstr "Se termine à"
+
+msgctxt "#31113"
+msgid "Auto show submenu"
+msgstr "Sous-menu d'affichage automatique"
+
+msgctxt "#31114"
+msgid "Show extended info"
+msgstr "Afficher les informations supplémentaires"
+
+msgctxt "#31115"
+msgid "Homescreen layout"
+msgstr "Disposition d'écran d'accueil"
+
+msgctxt "#31116"
+msgid "Default"
+msgstr "Défaut"
+
+msgctxt "#31117"
+msgid "Enable custom search"
+msgstr "Activer la recherche personnalisée"
+
+msgctxt "#31118"
+msgid "Ratings and studio logo visibility"
+msgstr "Notes et visibilité du logo du studio"
+
+msgctxt "#31119"
+msgid "Show large thumbnail"
+msgstr "Montrer une grande miniature"
+
+msgctxt "#31120"
+msgid "Enable details icons (cast, director, genre, etc...)"
+msgstr "Activer les icônes de détails (casting, directeur, genre, etc ...)"
+
+msgctxt "#31121"
+msgid "Homescreen layout"
+msgstr "Disposition d'écran d'accueil"
+
+msgctxt "#31122"
+msgid "Netflix Main Square"
+msgstr "Carré principal de Netflix"
+
+msgctxt "#31123"
+msgid "Enable moving focus frame in home & hubs"
+msgstr "Activer le cadre de mise au point mobile dans l'accueil et les hubs"
+
+msgctxt "#31125"
+msgid "Always visible"
+msgstr "Toujours visible"
+
+msgctxt "#31126"
+msgid "Watchlist"
+msgstr "Liste de surveillance"
+
+msgctxt "#31127"
+msgid "Recently Added"
+msgstr "Récemment ajouté"
+
+msgctxt "#31128"
+msgid "Recently played"
+msgstr "Récemment joué"
+
+msgctxt "#31129"
+msgid "My TV Shows"
+msgstr "Mes Séries TV"
+
+msgctxt "#31130"
+msgid "My movies"
+msgstr "Mes films"
+
+msgctxt "#31131"
+msgid "Recently Added Artists"
+msgstr "Artistes récemment ajoutés"
+
+msgctxt "#31132"
+msgid "TV channels"
+msgstr "Chaînes de télévision"
+
+msgctxt "#31133"
+msgid "Show plot in video infopanel or onscreen display"
+msgstr "Afficher le tracé dans un panneau d'informations vidéo ou un affichage à l'écran"
+
+msgctxt "#31134"
+msgid "Profile"
+msgstr "Profil"
+
+msgctxt "#31135"
+msgid "Radio channels"
+msgstr "Canaux radio"
+
+msgctxt "#31136"
+msgid "New TV Shows"
+msgstr "Nouvelles Séries TV"
+
+msgctxt "#31137"
+msgid "Settings for recordings"
+msgstr "Paramètres des enregistrements"
+
+msgctxt "#31138"
+msgid "Cancel recording of this episode only"
+msgstr "Annuler l'enregistrement de cet épisode uniquement"
+
+msgctxt "#31139"
+msgid "Cancel recording of all episodes"
+msgstr "Annuler l'enregistrement de tous les épisodes"
+
+msgctxt "#31140"
+msgid "Awards"
+msgstr "Récompenses"
+
+msgctxt "#31141"
+msgid "Display tags in views"
+msgstr "Afficher les balises dans les vues"
+
+msgctxt "#31142"
+msgid "Global background settings"
+msgstr "Paramètres de fond global"
+
+msgctxt "#31143"
+msgid "Button focus text color"
+msgstr "Couleur du texte de la mise au point des bouton"
+
+msgctxt "#31144"
+msgid "Select which details to show in details row"
+msgstr "Sélectionnez les détails à afficher dans la ligne des détails"
+
+msgctxt "#31145"
+msgid "MPAA"
+msgstr "MPAA"
+
+msgctxt "#31146"
+msgid "Duration/total seasons"
+msgstr "Durée/total des saisons"
+
+msgctxt "#31147"
+msgid "Resolution"
+msgstr "Résolution"
+
+msgctxt "#31148"
+msgid "Trakt Manager"
+msgstr "Gérer Trakt"
+
+msgctxt "#31149"
+msgid "roles"
+msgstr "rôles"
+
+msgctxt "#31150"
+msgid "Set number of roles to show in cast info"
+msgstr "Définir le nombre de rôles à afficher dans les informations de casting"
+
+msgctxt "#31151"
+msgid "Background overlay color"
+msgstr "Couleur de superposition de fond"
+
+msgctxt "#31152"
+msgid "Netflix animation"
+msgstr "Animation de Netflix"
+
+msgctxt "#31153"
+msgid "Trakt"
+msgstr "Trakt"
+
+msgctxt "#31154"
+msgid "Startup animations"
+msgstr "Animations de démarrage"
+
+msgctxt "#31155"
+msgid "Add/Remove Watchlist"
+msgstr "Ajouter/supprimer la liste de surveillance"
+
+msgctxt "#31156"
+msgid "Ratings & studio logo"
+msgstr "Notes et logo Studio"
+
+msgctxt "#31157"
+msgid "Primary text color"
+msgstr "Couleur du texte primaire"
+
+msgctxt "#31158"
+msgid "Thumbs up/down options"
+msgstr "Options de pouce vers le haut/bas"
+
+msgctxt "#31159"
+msgid "Documentaries"
+msgstr "Documentaires"
+
+msgctxt "#31160"
+msgid "Docuseries"
+msgstr "Docu-séries"
+
+msgctxt "#31161"
+msgid "Watch Season 1 Now"
+msgstr "Regardez la saison 1 maintenant"
+
+msgctxt "#31162"
+msgid "Adventure & Fantasy Movies"
+msgstr "Aventures et films fantastiques"
+
+msgctxt "#31163"
+msgid "Adventure & Fantasy TV Shows"
+msgstr "Séries TV d'aventure et fantastique"
+
+msgctxt "#31164"
+msgid "Action & Crime TV Shows"
+msgstr "Séries TV Action & Crime"
+
+msgctxt "#31165"
+msgid "Search categories"
+msgstr "Recherche catégories"
+
+msgctxt "#31166"
+msgid "Categories list"
+msgstr "Liste des catégories"
+
+msgctxt "#31167"
+msgid "Configure the home screen menu layout"
+msgstr "Configurer la disposition du menu de l'écran d'accueil"
+
+msgctxt "#31168"
+msgid ""
+"This skin is integrated with the skinshortcuts script to provide you "
+"maximized flexibility in how you want to arrange your homescreen menu’s. "
+"You’re able to add and delete widget on the homescreen, change the icons, "
+"define submenus etc. Click the button below to get started modifying the "
+"skin menu’s to your own preferences."
+msgstr ""
+"Cette peau est intégrée au script SkinShortcuts pour vous offrir une "
+"flexibilité maximisée dans la façon dont vous souhaitez organiser votre menu"
+" d'écran d'accueil. Vous pouvez ajouter et supprimer le widget sur l'écran "
+"d'accueil, modifier les icônes, définir le sous-menus, etc. Cliquez sur le "
+"bouton ci-dessous pour commencer à modifier le menu du skin à vos propres"
+" préférences."
+
+msgctxt "#31169"
+msgid "Disable dummy spotlight widget"
+msgstr "Désactiver le widget de projecteur factice"
+
+msgctxt "#31170"
+msgid "Reset menu to skin's defaults"
+msgstr "Réinitialisez le menu aux valeurs par défaut du skin"
+
+msgctxt "#31171"
+msgid ""
+"One of the main advantages of using the skinshortcuts-script is that your "
+"menu layout is shared across skins that support this addon. This is not "
+"always convenient as you won’t get the skins default menu layout which is "
+"optimized for the skin or you have played a bit in another skin and you "
+"don’t like the menu layout now. If you see weird behavior on your home menu "
+"or you just want to start fresh and get the most out of this skin, you can "
+"reset the menu structures to the skins default settings with the button "
+"below."
+msgstr ""
+"L'un des principaux avantages de l'utilisation du SkinShortcuts-Script est "
+"que votre disposition de menu est partagée sur les peaux qui prennent en "
+"charge cet addon. Ce n'est pas toujours pratique car vous n'obtiendrez pas "
+"la disposition du menu par défaut des skins qui est optimisée pour le skin "
+"ou vous avez joué un peu dans une autre peau et vous n'aimez pas la "
+"disposition du menu maintenant. Si vous voyez un comportement étrange dans "
+"votre menu d'accueil ou si vous souhaitez simplement recommencer et tirer le"
+" meilleur parti de cette peau, vous pouvez réinitialiser les structures de "
+"menu aux paramètres par défaut des skins avec le bouton ci-dessous."
+
+msgctxt "#31172"
+msgid "Who's watching Netflix?"
+msgstr "Qui regarde Netflix?"
+
+msgctxt "#31173"
+msgid "Auto play trailers in home & hubs"
+msgstr "Bandes-annonces automatique dans l'accueil et les hubs"
+
+msgctxt "#31174"
+msgid "Focused color for home tiles and widgets"
+msgstr "Couleur concentrée pour les carreaux et les widgets de la maison"
+
+msgctxt "#31175"
+msgid "Change Shortcut"
+msgstr "Changer de raccourci"
+
+msgctxt "#31176"
+msgid "Splash screen settings"
+msgstr "Paramètres d'écran d'animation"
+
+msgctxt "#31177"
+msgid "Title/clearlogo animation when system is idle"
+msgstr "Titre/Clearlogo Animation lorsque le système est inactif"
+
+msgctxt "#31178"
+msgid "Hide ratings and studio logo on spotlight"
+msgstr "Masquer les notes et le logo du studio au niveau du spotlight"
+
+msgctxt "#31179"
+msgid "Always open fullscreen music playback"
+msgstr "Toujours ouvrir la lecture de musique en plein écran"
+
+msgctxt "#31180"
+msgid "Hide ratings and studio logo on widgets"
+msgstr "Masquer les notes et le logo du studio sur les widgets"
+
+msgctxt "#31181"
+msgid "Alphabet letters pop-up & navigation"
+msgstr "Pop-up et navigation des lettres de l'alphabet"
+
+msgctxt "#31182"
+msgid "Menu options"
+msgstr "Menu options"
+
+msgctxt "#31183"
+msgid "Movie search"
+msgstr "Recherche de films"
+
+msgctxt "#31184"
+msgid "Replace cast and crew text list with cast and crew images"
+msgstr "Remplacez la liste de textes de la distribution et de l'équipe par des images de la distribution et de l'équipe"
+
+msgctxt "#31185"
+msgid "Spotlight"
+msgstr "Mettre en lumière"
+
+msgctxt "#31186"
+msgid "Search by Movies, Movie Collections, TV Shows or People"
+msgstr ""
+"Recherche par des films, des collections de films, des émissions de "
+"télévision ou des gens"
+
+msgctxt "#31187"
+msgid "More Info"
+msgstr "Plus d'informations"
+
+msgctxt "#31188"
+msgid "Details options"
+msgstr "Détails Options"
+
+msgctxt "#31189"
+msgid "Listitem border focus color"
+msgstr "Couleur de focus de la bordure listItem"
+
+msgctxt "#31190"
+msgid "Watch Now"
+msgstr "Regardez maintenant"
+
+msgctxt "#31191"
+msgid "Starting in"
+msgstr "Commencer par"
+
+msgctxt "#31192"
+msgid "Match"
+msgstr "Correspondre"
+
+msgctxt "#31193"
+msgid "New"
+msgstr "Nouveau"
+
+msgctxt "#31194"
+msgid "Science Fiction Movies"
+msgstr "Films de science-fiction"
+
+msgctxt "#31195"
+msgid "Sci-Fi TV Shows"
+msgstr "Séries TV de science-fiction"
+
+msgctxt "#31196"
+msgid "Thriller & Suspense Movies"
+msgstr "Thriller et films de suspense"
+
+msgctxt "#31197"
+msgid "Thriller & Suspense TV Shows"
+msgstr "Séries TV thriller et suspense"
+
+msgctxt "#31198"
+msgid "Search by Movies or Movie Collections"
+msgstr "Recherche par des films ou des collections de films"
+
+msgctxt "#31199"
+msgid "Enable additional details cast thumbnails"
+msgstr "Activer les détails supplémentaires coulé des miniatures"
+
+msgctxt "#31200"
+msgid "Show Disc-art"
+msgstr "Afficher le disque"
+
+msgctxt "#31201"
+msgid "Animate Disc-art"
+msgstr "Animer le disque-art"
+
+msgctxt "#31202"
+msgid "Customize search menu"
+msgstr "Personnaliser le menu de recherche"
+
+msgctxt "#31203"
+msgid "Background color"
+msgstr "Couleur de fond"
+
+msgctxt "#31204"
+msgid "Customize power menu"
+msgstr "Personnaliser le menu Power"
+
+msgctxt "#31205"
+msgid "TV Show search"
+msgstr "Recherche Séries TV"
+
+msgctxt "#31206"
+msgid "Music search"
+msgstr "Recherche musicale"
+
+msgctxt "#31207"
+msgid "Use extra fanart"
+msgstr "Utilisez un fanart supplémentaire"
+
+msgctxt "#31208"
+msgid "Replace 'Rate This Title' (local library) with 'Add Raiting' (Trakt)"
+msgstr ""
+"Remplacez «Évaluer ce titre» (bibliothèque locale) par «Ajouter Raiting» "
+"(Trakt)"
+
+msgctxt "#31209"
+msgid "Loading..."
+msgstr "Chargement..."
+
+msgctxt "#31210"
+msgid "Classic"
+msgstr "Classique"
+
+msgctxt "#31211"
+msgid "Recently Added Songs"
+msgstr "Chansons récemment ajoutées"
+
+msgctxt "#31212"
+msgid "Next episode in"
+msgstr "Prochain épisode dans"
+
+msgctxt "#31213"
+msgid "Duration"
+msgstr "Durée"
+
+msgctxt "#31214"
+msgid ""
+"Replace 'Add to My List' (local library) with 'Add/Remove Watchlist' (Trakt)"
+msgstr ""
+"Remplacez «Ajouter à ma liste» (bibliothèque locale) par «ajouter / "
+"supprimer la liste de surveillance» (Trakt)"
+
+msgctxt "#31215"
+msgid "Content loading"
+msgstr "Chargement du contenu"
+
+msgctxt "#31216"
+msgid "Only when OSD active"
+msgstr "Seulement lorsque OSD actif"
+
+msgctxt "#31217"
+msgid "Very light gray"
+msgstr "Gris très clair"
+
+msgctxt "#31218"
+msgid "Show first unwatched/currently watching episode info in TV show's info"
+msgstr ""
+"Show First Unsupted / Regarder actuellement les informations sur l'épisode "
+"dans les informations de l'émission de télévision"
+
+msgctxt "#31219"
+msgid "Text color for header"
+msgstr "Couleur du texte pour l'en-tête"
+
+msgctxt "#31220"
+msgid "Shadow color for header"
+msgstr "Couleur de l'ombre pour l'en-tête"
+
+msgctxt "#31221"
+msgid "Media library views"
+msgstr "Vues de la bibliothèque des médias"
+
+msgctxt "#31222"
+msgid "Media details text color"
+msgstr "Détails des médias Couleur du texte"
+
+msgctxt "#31223"
+msgid "Media details text shadow color"
+msgstr "Détails des médias Couleur de l'ombre texte"
+
+msgctxt "#31224"
+msgid "Seasons"
+msgstr "Saisons"
+
+msgctxt "#31225"
+msgid "Rating"
+msgstr "Notation"
+
+msgctxt "#31226"
+msgid "Media details header/highlights color"
+msgstr "Couleur des détails des détails du média / Highlights"
+
+msgctxt "#31227"
+msgid "This section will take effect only when content is sorted by title."
+msgstr ""
+"Cette section ne prendra effet que lorsque le contenu est trié par titre."
+
+msgctxt "#31228"
+msgid "Modern"
+msgstr "Moderne"
+
+msgctxt "#31229"
+msgid "More Episodes"
+msgstr "Plus d'épisodes"
+
+msgctxt "#31230"
+msgid "Press up for full keyboard"
+msgstr "Appuyez sur le clavier complet"
+
+msgctxt "#31231"
+msgid "seconds"
+msgstr "secondes"
+
+msgctxt "#31232"
+msgid "Do not hide OSD infopanel on fullscreen music playback"
+msgstr "Ne cachez pas OSD Infopanel sur la lecture musicale pleine écran"
+
+msgctxt "#31233"
+msgid "Focused color for buttons in the skin"
+msgstr "Couleur concentrée pour les boutons dans le skin"
+
+msgctxt "#31234"
+msgid "Movie Collections"
+msgstr "Collections de films"
+
+msgctxt "#31235"
+msgid "TV Show"
+msgstr "Séries TV"
+
+msgctxt "#31236"
+msgid "movie"
+msgstr "film"
+
+msgctxt "#31237"
+msgid "Use genre colors in EPG timeline"
+msgstr "Utilisez des couleurs de genre dans la chronologie EPG"
+
+msgctxt "#31238"
+msgid "Text color for focused lyrics"
+msgstr "Couleur de texte pour les paroles focalisées"
+
+msgctxt "#31239"
+msgid "Use alternative EPG progress indicator"
+msgstr "Utilisez un autre indicateur de progression EPG"
+
+msgctxt "#31240"
+msgid "We think you'll like this"
+msgstr "Nous pensons que vous allez aimer ça"
+
+msgctxt "#31241"
+msgid "Age"
+msgstr "Âge"
+
+msgctxt "#31242"
+msgid "Died"
+msgstr "Décédé"
+
+msgctxt "#31243"
+msgid "Born"
+msgstr "Né"
+
+msgctxt "#31244"
+msgid "Creators"
+msgstr "Créateurs"
+
+msgctxt "#31245"
+msgid "Number of rows to show in the timeline"
+msgstr "Nombre de lignes à montrer dans la chronologie"
+
+msgctxt "#31246"
+msgid "Credits & More Info"
+msgstr "Casting et autres d'informations"
+
+msgctxt "#31247"
+msgid "Trailers & More"
+msgstr "Trailers et plus"
+
+msgctxt "#31248"
+msgid "Disable 'Top 250' indicator"
+msgstr "Désactiver l'indicateur «top 250»"
+
+msgctxt "#31249"
+msgid "Enable OSD seek/jump indicator"
+msgstr "Activer l'indicateur de recherche / saut OSD"
+
+msgctxt "#31250"
+msgid "Restore default widgets in hubs"
+msgstr "Restaurer les widgets par défaut dans les hubs"
+
+msgctxt "#31251"
+msgid "Advanced search"
+msgstr "Recherche avancée"
+
+msgctxt "#31252"
+msgid "My Hub"
+msgstr "Mon hub"
+
+msgctxt "#31253"
+msgid "FAST FORWARD"
+msgstr "Avance rapide"
+
+msgctxt "#31254"
+msgid "REWIND"
+msgstr "REMBOBINER"
+
+msgctxt "#31255"
+msgid "SEEKING"
+msgstr "EN CHERCHANT"
+
+msgctxt "#31256"
+msgid "TV Shows Trending Today"
+msgstr "Séries TV tendance aujourd'hui"
+
+msgctxt "#31257"
+msgid "Memory Usage"
+msgstr "Utilisation de la mémoire"
+
+msgctxt "#31258"
+msgid "Enable finish time, current time, & total duration for OSD playback"
+msgstr ""
+"Activer l'heure de fin, l'heure actuelle et la durée totale de la "
+"lecture OSD"
+
+msgctxt "#31259"
+msgid "Enable animated discart"
+msgstr "Activer le disque animé"
+
+msgctxt "#31260"
+msgid "General panels color"
+msgstr "Couleur des panneaux généraux"
+
+msgctxt "#31261"
+msgid "Enable total media count in Netflix views (local library)"
+msgstr ""
+"Activer le nombre total de médias dans les vues de Netflix (bibliothèque "
+"locale)"
+
+msgctxt "#31262"
+msgid "Halloween Animation"
+msgstr "Animation d'Halloween"
+
+msgctxt "#31263"
+msgid "Recommended by TMDb"
+msgstr "Recommandé par TMDB"
+
+msgctxt "#31264"
+msgid "Snow Animation"
+msgstr "Animation de neige"
+
+msgctxt "#31265"
+msgid "Disable all submenus"
+msgstr "Désactiver tous les sous-menus"
+
+msgctxt "#31266"
+msgid "Enable background animation"
+msgstr "Activer l'animation d'arrière-plan"
+
+msgctxt "#31267"
+msgid "General widget settings"
+msgstr "Paramètres du widget général"
+
+msgctxt "#31268"
+msgid "Disable fanart"
+msgstr "Désactiver Fanart"
+
+msgctxt "#31269"
+msgid "Large white icons"
+msgstr "Grandes icônes blanches"
+
+msgctxt "#31270"
+msgid "Advanced settings"
+msgstr "Paramètres avancés"
+
+msgctxt "#31271"
+msgid "Backup and restore"
+msgstr "Sauvegarde et restauration"
+
+msgctxt "#31272"
+msgid "Backup the skin settings"
+msgstr "Sauvegarder les réglages du skin"
+
+msgctxt "#31273"
+msgid "Restore the skin settings"
+msgstr "Restaurer les réglages du skin"
+
+msgctxt "#31274"
+msgid "Reset the skin to default settings"
+msgstr "Réinitialisez le skin aux paramètres par défaut"
+
+msgctxt "#31275"
+msgid "Disable Netflix logo on home"
+msgstr "Désactiver le logo Netflix dans l'accueil"
+
+msgctxt "#31276"
+msgid "Auto hide menu"
+msgstr "Masquer automatiquement le menu"
+
+msgctxt "#31277"
+msgid "IMDB Top 250 Movies"
+msgstr "IMDB TOP 250 FILMS"
+
+msgctxt "#31278"
+msgid "Hide ratings and studio logo while trailer is playing"
+msgstr "Cacher les notes et le logo du studio pendant la bande-annonce"
+
+msgctxt "#31279"
+msgid "Very dark gray"
+msgstr "Gris très foncé"
+
+msgctxt "#31280"
+msgid "Buffering spinner color"
+msgstr "Couleur de spinner tampon"
+
+msgctxt "#31281"
+msgid ""
+"Disable items progress bar below title/clearlogo (use default indicator)"
+msgstr ""
+"Désactiver la barre de progression des articles en dessous du titre / "
+"clearlogo (utilisez l'indicateur par défaut)"
+
+msgctxt "#31282"
+msgid "Prefer red/white additional details icon"
+msgstr "Préférer l'icône des détails supplémentaires rouges/blancs"
+
+msgctxt "#31283"
+msgid "Prefer white icon on Top 250 sublabel"
+msgstr "Préférer l'icône blanche sur la sous-sublabel du top 250"
+
+msgctxt "#31284"
+msgid "Disable Top 250 sublabel on home and Netflix views"
+msgstr "Désactiver la top 250 sublabel sur la maison et les vues de Netflix"
+
+msgctxt "#31285"
+msgid "Overview"
+msgstr "Aperçu"
+
+msgctxt "#31286"
+msgid "36 Hour Forecast"
+msgstr "Prévisions de 36 heures"
+
+msgctxt "#31287"
+msgid "Hourly Forecast"
+msgstr "Prévisions horaires"
+
+msgctxt "#31288"
+msgid "Weekend Forecast"
+msgstr "Prévisions du week-end"
+
+msgctxt "#31289"
+msgid "10 Day Forecast"
+msgstr "Prévisions de 10 jours"
+
+msgctxt "#31290"
+msgid "Chance of Precipitation"
+msgstr "Chance de précipitations"
+
+msgctxt "#31291"
+msgid "Fetching forecast info..."
+msgstr "Récupérer les informations sur les prévisions ..."
+
+msgctxt "#31292"
+msgid "TV Show status"
+msgstr "Statut de la série TV"
+
+msgctxt "#31293"
+msgid "Last updated"
+msgstr "Dernière mise à jour"
+
+msgctxt "#31294"
+msgid "Display tags only for episodes and music"
+msgstr "Afficher les balises uniquement pour les épisodes et la musique"
+
+msgctxt "#31295"
+msgid "Notification TV Shows airing today"
+msgstr "Notification des Séries TV diffusées aujourd'hui"
+
+msgctxt "#31296"
+msgid "Time to show each fanart image (in seconds)"
+msgstr "Il est temps de montrer chaque image fanart (en secondes)"
+
+msgctxt "#31297"
+msgid "Disable spotlight widget"
+msgstr "Désactiver le widget du spotlight"
+
+msgctxt "#31298"
+msgid "Audio"
+msgstr "Audio"
+
+msgctxt "#31299"
+msgid "Color-fixed size"
+msgstr "Taille fixe en couleur"
+
+msgctxt "#31300"
+msgid "Movie titles from country"
+msgstr "Titres de films du country"
+
+msgctxt "#31301"
+msgid "Auto focus the first unwatched episode in lists"
+msgstr "Mise au point automatique sur le premier épisode non regardé dans les listes"
+
+msgctxt "#31303"
+msgid "Color"
+msgstr "Couleur"
+
+msgctxt "#31304"
+msgid "Prefer TV show thumb for episodes in widgets"
+msgstr "Préférer le pouce de Série TV pour les épisodes dans les widgets"
+
+msgctxt "#31305"
+msgid "View"
+msgstr "Voir"
+
+msgctxt "#31306"
+msgid "UK MPAA (only for US and UK ratings)"
+msgstr "MPAA britannique (uniquement pour les notes américaines et britanniques)"
+
+msgctxt "#31307"
+msgid "Spotlight widget"
+msgstr "Widget du spotlight"
+
+msgctxt "#31308"
+msgid "Close"
+msgstr "Fermer"
+
+msgctxt "#31309"
+msgid "MPAA style"
+msgstr "Style MPA"
+
+msgctxt "#31310"
+msgid "General"
+msgstr "Général"
+
+msgctxt "#31311"
+msgid "on IMDB Today"
+msgstr "sur imdb aujourd'hui"
+
+msgctxt "#31312"
+msgid ""
+"Unlock Hubs to change spotlight content and set widgets inside the hubs."
+msgstr "Déverrouillez les hubs pour modifier le contenu des spotlights et définir des widgets à l'intérieur des hubs."
+
+msgctxt "#31313"
+msgid "Most Played Movies"
+msgstr "Les films les plus joués"
+
+msgctxt "#31314"
+msgid "Most Played TV Shows"
+msgstr "Séries TV les plus jouées"
+
+msgctxt "#31315"
+msgid "Most Watched Movies"
+msgstr "Les films les plus regardés"
+
+msgctxt "#31316"
+msgid "Most Watched TV Shows"
+msgstr "Les Séries TV les plus regardées"
+
+msgctxt "#31317"
+msgid "Disable collections"
+msgstr "Désactiver les collections"
+
+msgctxt "#31318"
+msgid "Netflix Episodes"
+msgstr "Épisodes de Netflix"
+
+msgctxt "#31319"
+msgid "Trakt Popular TV Shows"
+msgstr "Trakt Séries TV Populaires"
+
+msgctxt "#31320"
+msgid "Enable Top 250 sublabel on video info"
+msgstr "Activer la top 250 Sublabel sur les informations vidéo"
+
+msgctxt "#31321"
+msgid "Netflix views"
+msgstr "Vues Netflix"
+
+msgctxt "#31322"
+msgid "Disable Top 250 sublabel on spotlight"
+msgstr "Désactiver la top 250 sublabel sur les projecteurs"
+
+msgctxt "#31323"
+msgid "Top 250 sublabel visibility"
+msgstr "Top 250 Visibilité de la sous-sublabel"
+
+msgctxt "#31324"
+msgid "Hide ratings and studio logo in views"
+msgstr "Masquer les notes et le logo du studio dans les vues"
+
+msgctxt "#31325"
+msgid "Show current weather in the video info & video on-screen displays"
+msgstr "Afficher la météo actuelle dans les informations vidéo et les affichages vidéo à l'écran"
+
+msgctxt "#31326"
+msgid "Trakt Popular Movies"
+msgstr "Trakt Films Populaires"
+
+msgctxt "#31327"
+msgid "Clearlogo/title position"
+msgstr "Clearlogo/Titre Position"
+
+msgctxt "#31328"
+msgid "Trakt Trending TV Shows"
+msgstr "Trakt Séries TV Tendances"
+
+msgctxt "#31329"
+msgid "Top left"
+msgstr "En haut à gauche"
+
+msgctxt "#31330"
+msgid "Top center"
+msgstr "En haut au centre"
+
+msgctxt "#31331"
+msgid "Top right"
+msgstr "En haut à droite"
+
+msgctxt "#31332"
+msgid "Movies Trending Today"
+msgstr "Films Tendance Aujourd'hui"
+
+msgctxt "#31333"
+msgid "Are you sure?"
+msgstr "Es-tu sûr?"
+
+msgctxt "#31334"
+msgid "Last Releases Movies"
+msgstr "Dernières Sorties Films"
+
+msgctxt "#31335"
+msgid "Most Voted Movies"
+msgstr "Les films les plus votés"
+
+msgctxt "#31336"
+msgid "Most Voted TV Shows"
+msgstr "Les Séries TV les plus votés"
+
+msgctxt "#31337"
+msgid "Trakt Trending Movies"
+msgstr "Trakt Films Tendances"
+
+msgctxt "#31338"
+msgid "Prefer white ratings and studio logo"
+msgstr "Préférez les notes blanches et le logo Studio"
+
+msgctxt "#31339"
+msgid "Top Rated Movies"
+msgstr "Films les mieux notés"
+
+msgctxt "#31340"
+msgid "Top Rated TV Shows"
+msgstr "Séries TV les mieux notées"
+
+msgctxt "#31341"
+msgid "New Hub"
+msgstr "Nouveau hub"
+
+msgctxt "#31342"
+msgid "Movies Hub"
+msgstr "Films hub"
+
+msgctxt "#31343"
+msgid "Highest Revenue Movies"
+msgstr "Films aux revenus les plus élevés"
+
+msgctxt "#31344"
+msgid "Scrollbar visibility"
+msgstr "Visibilité de la barre de défilement"
+
+msgctxt "#31346"
+msgid "TMDb Popular TV Shows"
+msgstr "Séries TV Populaires TMDB"
+
+msgctxt "#31347"
+msgid "TMDb Popular Movies"
+msgstr "Films Populaires TMDB"
+
+msgctxt "#31352"
+msgid "TV Mysteries"
+msgstr "Séries Mystères"
+
+msgctxt "#31353"
+msgid "TV Westerns"
+msgstr "Séries Westerns"
+
+msgctxt "#31354"
+msgid "Select which categories to show in categories hub"
+msgstr "Sélectionnez les catégories à afficher dans les catégories Hub"
+
+msgctxt "#31364"
+msgid "TV Animations"
+msgstr "Séries Animations"
+
+msgctxt "#31365"
+msgid "Footer colors"
+msgstr "Couleurs du pied de page"
+
+msgctxt "#31366"
+msgid "You're watching"
+msgstr "Tu regardes"
+
+msgctxt "#31367"
+msgid "Small poster"
+msgstr "Petite affiche"
+
+msgctxt "#31368"
+msgid "Disc Art"
+msgstr "Disque art"
+
+msgctxt "#31369"
+msgid "Set Icon"
+msgstr "Définir l'icône"
+
+msgctxt "#31370"
+msgid "Widget loading image"
+msgstr "Image de chargement du widget"
+
+msgctxt "#31371"
+msgid "No items in My List.[CR]Start adding Movies & TV Shows you like, just press "
+"the 'Add to My List' button from information page."
+msgstr "Aucun élément de ma liste. [CR] Commencez à ajouter des films et des "
+"Séries TV que vous aimez, appuyez simplement sur le bouton "
+"«Ajouter à ma liste» à partir de la page d'informations."
+
+msgctxt "#31372"
+msgid "TV Crime"
+msgstr "Séries Crime"
+
+msgctxt "#31373"
+msgid "TV Sci-Fi & Fantasy"
+msgstr "Séries Sci-Fi et fantaisie"
+
+msgctxt "#31374"
+msgid "TV War & Politics"
+msgstr "Séries Guerre et politique"
+
+msgctxt "#31375"
+msgid "Restoring Widgets in Hubs will overrite all current widgets in hubs."
+msgstr "La restauration des widgets dans les hubs remplacera tous les widgets actuels dans les hubs."
+
+msgctxt "#31376"
+msgid "TV Kids & Family"
+msgstr "Séries Enfants et famille                                                "
+
+msgctxt "#31377"
+msgid "TV Documentaries"
+msgstr "Séries Documentaires"
+
+msgctxt "#31378"
+msgid "Use alternative video info dialog"
+msgstr "Utilisez une boîte de dialogue d'informations vidéo alternatives"
+
+msgctxt "#31379"
+msgid "Strong red"
+msgstr "Rouge fort"
+
+msgctxt "#31380"
+msgid "Dark red"
+msgstr "Rouge foncé"
+
+msgctxt "#31381"
+msgid "TV Dramas"
+msgstr "Séries Drames"
+
+msgctxt "#31382"
+msgid "TV Comedies"
+msgstr "Séries Comédies"
+
+msgctxt "#31383"
+msgid "My Custom List"
+msgstr "Ma liste personnalisée"
+
+msgctxt "#31384"
+msgid "Set Content"
+msgstr "Définir le contenu"
+
+msgctxt "#31385"
+msgid "Recommended TV Shows"
+msgstr "Séries TV recommandées"
+
+msgctxt "#31386"
+msgid "TV Action & Adventure"
+msgstr "Séries Action et aventure"
+
+msgctxt "#31387"
+msgid "Welcome to Netflix"
+msgstr "Bienvenue sur Netflix"
+
+msgctxt "#31388"
+msgid "This skin is designed to simulate Netflix user experience for TV.[CR]In "
+"order to get everything running as it should, it's recommended to set the "
+"following Kodi options:[CR][CR][COLOR ff41b957]    - Disable mouse[CR]    - "
+"Hide parent folder items[CR]    - Auto focus first unwatched episode[CR]    "
+"- Flatten TV Shows seasons (show all episodes)[CR]    - Set media default "
+"action to 'Resume'[/COLOR][CR][CR]Note that this settings are global and "
+"will be valid for all installed skins.[CR]But no worries, all settings can "
+"be reverted in Kodi settings."
+msgstr "Ce skin est conçue pour simuler l'expérience utilisateur de Netflix pour "
+"la télévision. [CR] Afin de faire fonctionner tout comme il se doit, il est "
+"recommandé de définir les options KODI suivantes: [CR] [CR] [Couleur "
+"FF41B957] - Désactiver la souris [CR] - Masquer les éléments du dossier "
+"parent [CR] - Auto Focus Episode UNDUSTOPED [CR] - Avertir les émissions de "
+"télévision Seasons (Show Tous les épisodes) [CR] - Définir l'action par "
+"défaut des médias pour «reprendre» [/ Color] [CR] [CR] Remarque que ces "
+"paramètres sont globaux et seront valables pour toutes les peaux installées."
+" [CR] Mais pas de soucis, tous les paramètres peuvent être reversés dans les"
+" paramètres de Kodi."
+
+msgctxt "#31389"
+msgid "OK, do it for me!"
+msgstr "Ok, fais-le pour moi!"
+
+msgctxt "#31390"
+msgid "I want to keep my current config"
+msgstr "Je veux garder ma configuration actuelle"
+
+msgctxt "#31391"
+msgid "Did you add content to your library yet?"
+msgstr "Avez-vous déjà ajouté du contenu à votre bibliothèque?"
+
+msgctxt "#31392"
+msgid "Add video files to library now"
+msgstr "Ajouter des fichiers vidéo à la bibliothèque maintenant"
+
+msgctxt "#31393"
+msgid ""
+"Hubs can be configured with their own widgets here, but they need to be "
+"unlocked first.[CR]When you're done, lock them in:[CR]Settings -> Skin "
+"Settings -> Configure Shortcuts tab -> Lock Hubs."
+msgstr ""
+"Les hubs peuvent être configurés avec leurs propres widgets ici, mais ils "
+"doivent d'abord être déverrouillés. [CR] Lorsque vous avez terminé, "
+"verrouillez-les: [CR] Paramètres -> Paramètres cutanés -> Configurer "
+"l'onglet des raccourcis -> Lock Hubs."
+
+msgctxt "#31394"
+msgid "Unlock Hubs now"
+msgstr "Déverrouiller les hubs maintenant"
+
+msgctxt "#31395"
+msgid ""
+"With Netflix you can have all of your Kodi and library content in one place, "
+"through the use of widgets.[CR][CR]Home widgets can be configured "
+"from:[CR][COLOR white]    - Skin Settings -> Configure Shortcuts tab -> Edit"
+" Menu Shortcuts[/COLOR][CR][CR]There are also Hubs for Movies, TV Shows, New"
+" & Popular, Categories, My List and you can add your own.[CR]Hubs can have "
+"their own spotlight and widgets and everything is set from the hub's screen,"
+" when the hub is UNLOCKED.[CR][COLOR white]    - Skin Settings -> Configure "
+"Shortcuts tab -> Tick off the 'Lock Hubs' button[/COLOR][CR]When you're "
+"done, don't forget to lock the hubs![CR][CR][COLOR ff41b957]The skin is pre-"
+"packed with widgets for Movies & TV Shows.[CR]If you haven't added files to "
+"your video library yet, now is a good time![CR]Otherwise, you'd be staring "
+"with TMDb Helper widgets...[/COLOR]"
+msgstr ""
+"Avec Netflix, vous pouvez avoir tout votre contenu Kodi et Bibliothèque en un"
+" seul endroit, grâce à l'utilisation de widgets. [CR] [CR] Les widgets "
+"domestiques peuvent être configurés à partir de: [CR] [Couleur blanc] - "
+"Paramètres du skin -> Configurer l'onglet des raccourcis -> modifier les "
+"raccourcis de menu [/ couleur] [CR] [CR] Il y a aussi des hubs pour les "
+"films, des Séries TV, des catégories New & Popular, ma liste "
+"et vous pouvez ajouter les vôtres. [CR] peuvent avoir leurs propres "
+"projecteurs et widgets et tout est défini à partir de l'écran du hub, "
+"lorsque le concentrateur est déverrouillé. [CR] [Couleur blanc] - Paramètres"
+" du skin -> Configurer l'onglet des raccourcis -> cochez le bouton «Lock "
+"Hubs» [/ Couleur] [CR] Lorsque vous 'Re fait, n'oubliez pas de verrouiller "
+"les hubs! [CR] [CR] [Couleur FF41B957] La ​​peau est pré-emballée avec des "
+"widgets pour les films et les Séries TV. [CR] Si vous n'avez "
+"pas ajouté de fichiers à votre vidéo Bibliothèque Pourtant, c'est le bon "
+"moment! [CR] Sinon, vous regardez avec des widgets d'assistance TMDB ... [/ "
+"couleur]"
+
+msgctxt "#31396"
+msgid "Alright, let's do it"
+msgstr "D'accord, faisons-le"
+
+msgctxt "#31397"
+msgid "Nah, I'll figure it out myself"
+msgstr "Non, je vais le découvrir moi-même"
+
+msgctxt "#31398"
+msgid "Thriller"
+msgstr "Thriller"
+
+msgctxt "#31399"
+msgid "Westerns"
+msgstr "Westerns"
+
+msgctxt "#31400"
+msgid ""
+"[B]CONFIGURE APPEARANCE SETTINGS[/B][CR][CR]Change the skin · Set language "
+"and region · Change file listing options · Set up a screensaver"
+msgstr ""
+"Configurer les paramètres d'apparence [CR] [CR] Modifier le skin ·"
+" Définir la langue et la région · Modifier les options de liste des fichiers"
+" · Configurer l'économiseur d'écran"
+
+msgctxt "#31401"
+msgid ""
+"[B]CONFIGURE MEDIA SETTINGS[/B][CR][CR]Manage your video, music and picture "
+"library · Change video, music and picture listing options"
+msgstr ""
+"Configurer les paramètres multimédias [CR] [CR] Gérer votre vidéo,"
+" musique et bibliothèque d'images · Modifier les options de vidéo, de "
+"musique et de liste d'images"
+
+msgctxt "#31402"
+msgid ""
+"[B]CONFIGURE PLAYER SETTINGS[/B][CR][CR]Set video/music playback options · "
+"Configure slideshows · Set subtitle fonts"
+msgstr ""
+"Configurer les paramètres du lecteur [CR] [CR] Définir les options"
+" de lecture vidéo / musicale · Configurer les diaporamas · Définir les "
+"polices de sous-titre"
+
+msgctxt "#31403"
+msgid "[B]CONFIGURE GAMES SETTINGS[/B][CR][CR]Set gameplay options"
+msgstr ""
+"Configurer les paramètres des jeux [CR] [CR] Définir les options "
+"de gameplay"
+
+msgctxt "#31404"
+msgid "[B]FILE MANAGER[/B][CR][CR]Browse and organize files"
+msgstr ""
+"Gestionnaire de fichiers [CR] [CR] parcourir et organiser des "
+"fichiers"
+
+msgctxt "#31405"
+msgid ""
+"[B]CONFIGURE NETWORK SETTINGS[/B][CR][CR]Setup control of Kodi via UPnP and "
+"HTTP · Configure file sharing · Set internet access options"
+msgstr ""
+"Configurer les paramètres du réseau [CR] [CR] Contrôle de "
+"configuration de Kodi via UPNP et HTTP · Configurer le partage de fichiers ·"
+" Définir les options d'accès Internet"
+
+msgctxt "#31406"
+msgid ""
+"[B]CONFIGURE SYSTEM SETTINGS[/B][CR][CR]Setup and calibrate displays · "
+"Configure audio output · Set power saving options · Enable debugging"
+msgstr ""
+"Configurer les paramètres du système [CR] [CR] Configuration et "
+"calibrer Affichages · Configurer la sortie audio · Définir les options "
+"d'économie d'alimentation · Activer le débogage"
+
+msgctxt "#31407"
+msgid ""
+"[B]CONFIGURE SKIN SETTINGS[/B][CR][CR]Setup Netflix skin · Add and remove "
+"home menu items · Change skin backgrounds"
+msgstr ""
+"Configurer les paramètres du skin [CR] [CR] Configuration de la"
+" peau de Netflix · Ajouter et supprimer les éléments du menu de la maison · "
+"Changer les arrière-plans du skin"
+
+msgctxt "#31408"
+msgid ""
+"[B]CONFIGURE ADD-ONS[/B][CR][CR]Manage your installed Add-ons · Browse for "
+"and install Add-ons from kodi.tv · Modify Add-on settings"
+msgstr ""
+"Configurer les modules complémentaires [CR] [CR] Gérer vos modules"
+" complémentaires installés · parcourir et installer des modules "
+"complémentaires à partir de kodi.tv · Modifier les paramètres "
+"supplémentaires"
+
+msgctxt "#31409"
+msgid ""
+"[B]SYSTEM INFO[/B][CR][CR]Summary · Storage · Network · Video · Hardware"
+msgstr ""
+"Informations système [CR] [CR] Résumé · Stockage · Réseau · Vidéo · Matériel"
+
+msgctxt "#31410"
+msgid "[B]CONFIGURE LIVE-TV SETTINGS[/B][CR][CR]Configure PVR settings"
+msgstr ""
+"Configurer les paramètres de télévision en direct [CR] [CR] "
+"Configurer les paramètres PVR"
+
+msgctxt "#31411"
+msgid "Additional info text color"
+msgstr "Couleur du texte des informations supplémentaires"
+
+msgctxt "#31412"
+msgid "Sublabel text color"
+msgstr "Couleur du texte de la sous-sublabel"
+
+msgctxt "#31413"
+msgid "Video Versions"
+msgstr "Versions vidéo"
+
+msgctxt "#31414"
+msgid "Mysteries"
+msgstr "Mystères"
+
+msgctxt "#31415"
+msgid "Search settings"
+msgstr "Paramètres de recherche"
+
+msgctxt "#31416"
+msgid "Search for episodes by name"
+msgstr "Rechercher des épisodes par nom"
+
+msgctxt "#31417"
+msgid "Search for music videos"
+msgstr "Rechercher des clips"
+
+msgctxt "#31418"
+msgid "Search for music albums, artists and songs"
+msgstr "Recherche d'albums de musique, d'artistes et de chansons"
+
+msgctxt "#31419"
+msgid "Search YouTube"
+msgstr "Rechercher YouTube"
+
+msgctxt "#31420"
+msgid "Don't use rich artwork on the OSD at live TV playback"
+msgstr ""
+"N'utilisez pas de riches illustrations sur l'OSD à la lecture de la "
+"télévision en direct"
+
+msgctxt "#31421"
+msgid "[B]SELECT YOUR KODI USER PROFILE[/B][CR][CR]To login and continue"
+msgstr ""
+"Sélectionnez votre profil utilisateur Kodi pour vous "
+"connecter et continuer"
+
+msgctxt "#31422"
+msgid "Panel Details"
+msgstr "Détails du panel"
+
+msgctxt "#31423"
+msgid "Swap poster"
+msgstr "Echanger une affiche"
+
+msgctxt "#31424"
+msgid "Banner List"
+msgstr "Liste de bannières"
+
+msgctxt "#31425"
+msgid "Banner Plex"
+msgstr "Bannière plex"
+
+msgctxt "#31426"
+msgid "Big Panel"
+msgstr "Grand panneau"
+
+msgctxt "#31427"
+msgid "Romance"
+msgstr "Romance"
+
+msgctxt "#31428"
+msgid "Sci-Fi"
+msgstr "Science-fiction"
+
+msgctxt "#31429"
+msgid "Showcase"
+msgstr "Présentation"
+
+msgctxt "#31430"
+msgid "Big Landscape"
+msgstr "Grand paysage"
+
+msgctxt "#31431"
+msgid "Landscape Single Row"
+msgstr "Paysage à une rangée"
+
+msgctxt "#31432"
+msgid "TMDb Trending Movies"
+msgstr "Films tendance TMDB"
+
+msgctxt "#31433"
+msgid "Rate This Title"
+msgstr "Évaluez ce titre"
+
+msgctxt "#31434"
+msgid "FanArt"
+msgstr "Fanart"
+
+msgctxt "#31435"
+msgid "Animations"
+msgstr "Animations"
+
+msgctxt "#31436"
+msgid "Panel Square"
+msgstr "Panneau Carré"
+
+msgctxt "#31437"
+msgid "Panel Square Details"
+msgstr "Détails du panneau carré"
+
+msgctxt "#31438"
+msgid "Landscape"
+msgstr "Paysage"
+
+msgctxt "#31439"
+msgid "Landscape Details"
+msgstr "Détails du paysage"
+
+msgctxt "#31440"
+msgid "Poster Row"
+msgstr "Rangée d'affiche"
+
+msgctxt "#31441"
+msgid "Poster Shift"
+msgstr "Décalage d'affiche"
+
+msgctxt "#31442"
+msgid "History & War"
+msgstr "Histoire et guerre"
+
+msgctxt "#31443"
+msgid "List"
+msgstr "Liste"
+
+msgctxt "#31444"
+msgid "List Details"
+msgstr "Détails de la liste"
+
+msgctxt "#31445"
+msgid "Horizontal Panel"
+msgstr "Panneau horizontal"
+
+msgctxt "#31446"
+msgid "Fantasy"
+msgstr "Fantaisie"
+
+msgctxt "#31447"
+msgid "Prefer ClearArt"
+msgstr "Préférer Clearart"
+
+msgctxt "#31448"
+msgid "Crime"
+msgstr "Crime"
+
+msgctxt "#31449"
+msgid "Interval (in seconds) for multi-image and random fanart backgrounds"
+msgstr ""
+"Intervalle (en secondes) pour les arrière-plans de fanart multi-images et "
+"aléatoires"
+
+msgctxt "#31450"
+msgid "Header colors"
+msgstr "Couleurs de tête"
+
+msgctxt "#31451"
+msgid "Kids & Family"
+msgstr "Enfants et famille"
+
+msgctxt "#31452"
+msgid "Horror"
+msgstr "Horreur"
+
+msgctxt "#31453"
+msgid "TMDb Trending TV Shows"
+msgstr "Séries TV tendance TMDB"
+
+msgctxt "#31454"
+msgid "Movies Trending This Week"
+msgstr "Films tendance cette semaine"
+
+msgctxt "#31455"
+msgid "Text color for footer"
+msgstr "Couleur de texte pour le pied de page"
+
+msgctxt "#31456"
+msgid "Dramas"
+msgstr "Drames"
+
+msgctxt "#31457"
+msgid "Comedies"
+msgstr "Comédies"
+
+msgctxt "#31458"
+msgid "Text color for buttons in the skin"
+msgstr "Couleur de texte pour les boutons du skin"
+
+msgctxt "#31459"
+msgid "Focused text color for buttons in the skin"
+msgstr "Couleur de texte ciblé pour les boutons du skin"
+
+msgctxt "#31460"
+msgid "General text color"
+msgstr "Couleur du texte général"
+
+msgctxt "#31461"
+msgid "Logos"
+msgstr "Logos"
+
+msgctxt "#31462"
+msgid "Color themes"
+msgstr "Thèmes de couleur"
+
+msgctxt "#31463"
+msgid "Select a color theme"
+msgstr "Sélectionnez un thème de couleur"
+
+msgctxt "#31464"
+msgid ""
+"This skin allows you to customize almost every color in the skin manually. "
+"You can also choose to save your customizations to a color theme or use one "
+"of the predefined color themes."
+msgstr ""
+"Cette peau vous permet de personnaliser presque toutes les couleurs de la "
+"peau manuellement. Vous pouvez également choisir de sauvegarder vos "
+"personnalisations sur un thème de couleur ou d'utiliser l'un des thèmes de "
+"couleur prédéfinis."
+
+msgctxt "#31465"
+msgid "Local library"
+msgstr "Bibliothèque locale"
+
+msgctxt "#31466"
+msgid "Streaming services"
+msgstr "Services de streaming"
+
+msgctxt "#31467"
+msgid "Video info lists filter"
+msgstr "Filtre de listes d'informations vidéo"
+
+msgctxt "#31468"
+msgid "Enable streaming services filter"
+msgstr "Activer le filtre des services de streaming"
+
+msgctxt "#31469"
+msgid "Action & Adventure"
+msgstr "Action et aventure"
+
+msgctxt "#31470"
+msgid "Background overlay texture"
+msgstr "Texture de superposition de fond"
+
+msgctxt "#31471"
+msgid "Search results for"
+msgstr "Résultats de la recherche pour"
+
+msgctxt "#31472"
+msgid "Set Custom Spotlight Content"
+msgstr "Définir le contenu des spotlight personnalisés"
+
+msgctxt "#31473"
+msgid "OSD panel color"
+msgstr "Couleur du panneau OSD"
+
+msgctxt "#31474"
+msgid "Exit"
+msgstr "Quitter"
+
+msgctxt "#31475"
+msgid "Color for buttons in the skin"
+msgstr "Couleur pour les boutons dans le skin"
+
+msgctxt "#31476"
+msgid "Listitem border unfocus color"
+msgstr "Couleur floue de la bordure de l'élément de liste"
+
+msgctxt "#31477"
+msgid "Shadow color for footer"
+msgstr "Couleur de l'ombre pour le pied de page"
+
+msgctxt "#31478"
+msgid "OSD text color"
+msgstr "Couleur du texte OSD"
+
+msgctxt "#31479"
+msgid "OSD text shadow color"
+msgstr "Couleur de l'ombre du texte OSD"
+
+msgctxt "#31480"
+msgid "Play Trailer"
+msgstr "Bande-annonce"
+
+msgctxt "#31481"
+msgid "Episodes"
+msgstr "Épisodes"
+
+msgctxt "#31482"
+msgid "OSD progress bar background color"
+msgstr "Couleur d'arrière-plan de la barre de progression OSD"
+
+msgctxt "#31483"
+msgid "OSD progress bar color"
+msgstr "Couleur de la barre de progression OSD"
+
+msgctxt "#31484"
+msgid "OSD buttons color"
+msgstr "Couleur des boutons OSD"
+
+msgctxt "#31485"
+msgid "OSD focus buttons color"
+msgstr "Couleur des boutons de mise au point OSD"
+
+msgctxt "#31486"
+msgid "General color settings"
+msgstr "Paramètres de couleur générale"
+
+msgctxt "#31487"
+msgid "Enable/disable views"
+msgstr "Activer/désactiver les vues"
+
+msgctxt "#31488"
+msgid "Writer"
+msgstr "Écrivain"
+
+msgctxt "#31489"
+msgid "Categories hub"
+msgstr "Catégories hub"
+
+msgctxt "#31490"
+msgid "Library list"
+msgstr "Liste de bibliothèque"
+
+msgctxt "#31491"
+msgid "TMDb Helper list"
+msgstr "Liste d'assistance TMDb"
+
+msgctxt "#31492"
+msgid "Play Something Else"
+msgstr "Jouer autre chose"
+
+msgctxt "#31493"
+msgid "Use rounded icons in OSD"
+msgstr "Utilisez des icônes arrondies dans OSD"
+
+msgctxt "#31494"
+msgid "Emmy"
+msgstr "Emmy"
+
+msgctxt "#31495"
+msgid "Scrollbar background color"
+msgstr "Couleur d'arrière-plan de la barre de défilement"
+
+msgctxt "#31496"
+msgid "Scrollbar unfocused color"
+msgstr "Couleur non focalisée de la barre de défilement"
+
+msgctxt "#31497"
+msgid "Scrollbar focused color"
+msgstr "Couleur concentrée sur la barre de défilement"
+
+msgctxt "#31498"
+msgid "Use fake discart when no discart exists"
+msgstr "Utilisez un faux disque quand aucun disque n'existe"
+
+msgctxt "#31499"
+msgid "Widget"
+msgstr "Widget"
+
+msgctxt "#31500"
+msgid "Image"
+msgstr "Image"
+
+msgctxt "#31501"
+msgid "Action"
+msgstr "Action"
+
+msgctxt "#31502"
+msgid "Golden Globe"
+msgstr "Globe d'or"
+
+msgctxt "#31503"
+msgid "Information"
+msgstr "Information"
+
+msgctxt "#31504"
+msgid ""
+"Default music background (as fallback if no artist fanart or fanart "
+"disabled)"
+msgstr ""
+"Défenture musicale par défaut (comme Fallback si aucun artiste fanart ou "
+"fanart n'a handicapé)"
+
+msgctxt "#31505"
+msgid "Busy animation color"
+msgstr "Couleur d'animation animée"
+
+msgctxt "#31506"
+msgid "No widget assigned [click to configure]"
+msgstr "Aucun widget affecté [cliquez pour configurer]"
+
+msgctxt "#31507"
+msgid "Layout for widgets"
+msgstr "Disposition des widgets"
+
+msgctxt "#31508"
+msgid "Cast in TV Shows"
+msgstr "Casting dans des Séries TV"
+
+msgctxt "#31509"
+msgid "Crew in Movies"
+msgstr "Équipe dans les films"
+
+msgctxt "#31510"
+msgid "Crew in TV Shows"
+msgstr "Équipe dans les Séries TV"
+
+msgctxt "#31511"
+msgid "Use fixed focus"
+msgstr "Utiliser une mise au point fixe"
+
+msgctxt "#31512"
+msgid "Media items indicators"
+msgstr "Indicateurs d'articles multimédias"
+
+msgctxt "#31513"
+msgid "Enable indicator for watched items"
+msgstr "Activer l'indicateur pour les articles surveillés"
+
+msgctxt "#31514"
+msgid "Enable indicator for in progress items"
+msgstr "Activer l'indicateur pour les éléments en cours"
+
+msgctxt "#31515"
+msgid "Enable indicator for movie sets"
+msgstr "Activer l'indicateur pour les ensembles de films"
+
+msgctxt "#31516"
+msgid "Enable indicator for unwatched episodes"
+msgstr "Activer l'indicateur pour les épisodes non fixés"
+
+msgctxt "#31517"
+msgid "color for indicator background (triangle)"
+msgstr "Couleur pour fond indicateur (triangle)"
+
+msgctxt "#31518"
+msgid "Forced views"
+msgstr "Vues forcées"
+
+msgctxt "#31519"
+msgid "Cast in Movies"
+msgstr "Coulé dans les films"
+
+msgctxt "#31520"
+msgid "Widget loading animation color"
+msgstr "Couleur d'animation de chargement du widget"
+
+msgctxt "#31521"
+msgid "color for indicator image or text"
+msgstr "Couleur pour l'image ou le texte de l'indicateur"
+
+msgctxt "#31522"
+msgid "Trailers"
+msgstr "Bandes-annonces"
+
+msgctxt "#31523"
+msgid "Trailer"
+msgstr "Bande-annonce"
+
+msgctxt "#31524"
+msgid "Recommendations"
+msgstr "Recommandations"
+
+msgctxt "#31525"
+msgid "Studio"
+msgstr "Studio"
+
+msgctxt "#31526"
+msgid "Network"
+msgstr "Réseau"
+
+msgctxt "#31527"
+msgid "Premiered in"
+msgstr "Créé en"
+
+msgctxt "#31528"
+msgid "Year"
+msgstr "Année"
+
+msgctxt "#31529"
+msgid "Posters"
+msgstr "Affiches"
+
+msgctxt "#31530"
+msgid "Creator"
+msgstr "Créateur"
+
+msgctxt "#31531"
+msgid "Created by"
+msgstr "Créé par"
+
+msgctxt "#31532"
+msgid "Critically Acclaimed Movies"
+msgstr "Films acclamés par la critique"
+
+msgctxt "#31533"
+msgid "Trailers settings"
+msgstr "Paramètres des bandes-annonces"
+
+msgctxt "#31534"
+msgid "My List"
+msgstr "Ma liste"
+
+msgctxt "#31535"
+msgid "Continue watching"
+msgstr "Continuer à regarder"
+
+msgctxt "#31536"
+msgid "Action & Crime Movies"
+msgstr "Films d'action et de crime"
+
+msgctxt "#31537"
+msgid "Flags color"
+msgstr "Couleur des drapeaux"
+
+msgctxt "#31538"
+msgid "Genres"
+msgstr "Genres"
+
+msgctxt "#31539"
+msgid "Light red"
+msgstr "Rouge léger"
+
+msgctxt "#31540"
+msgid "Director"
+msgstr "Directeur"
+
+msgctxt "#31541"
+msgid "Directed by"
+msgstr "Réalisé par"
+
+msgctxt "#31542"
+msgid "Written by"
+msgstr "Écrit par"
+
+msgctxt "#31543"
+msgid "with"
+msgstr "avec"
+
+msgctxt "#31544"
+msgid "and"
+msgstr "et"
+
+msgctxt "#31545"
+msgid "in main roles"
+msgstr "dans les rôles principaux"
+
+msgctxt "#31546"
+msgid "series with"
+msgstr "série avec"
+
+msgctxt "#31547"
+msgid "OSD progress bar border color"
+msgstr "Couleur de bordure de la barre de progression OSD"
+
+msgctxt "#31548"
+msgid "Netflix Top 250 icon color"
+msgstr "Netflix Top 250 Icon Couleur"
+
+msgctxt "#31549"
+msgid "Play Next Episode (local library)"
+msgstr "Jouez l'épisode suivant (bibliothèque locale)"
+
+msgctxt "#31550"
+msgid "Enable option for a complete keyboard"
+msgstr "Activer l'option pour un clavier complet"
+
+msgctxt "#31551"
+msgid "Titles related to"
+msgstr "Titres liés à"
+
+msgctxt "#31552"
+msgid "Titles in genre"
+msgstr "Titres par genre"
+
+msgctxt "#31553"
+msgid "Titles released in year"
+msgstr "Titres sortis dans l'année"
+
+msgctxt "#31554"
+msgid "Titles from studio"
+msgstr "Titres du studio"
+
+msgctxt "#31555"
+msgid "Titles featuring actor"
+msgstr "Titres avec acteur"
+
+msgctxt "#31556"
+msgid "Movie titles by director"
+msgstr "Titres de films par réalisateur"
+
+msgctxt "#31557"
+msgid "Text color for unfocused lyrics"
+msgstr "Couleur de texte pour paroles non focalisées"
+
+msgctxt "#31558"
+msgid "There are no matches for this category."
+msgstr "Il n'y a pas de correspondance pour cette catégorie."
+
+msgctxt "#31559"
+msgid "Search by Title, Genre, Actor, Director, Country, Studio or Year"
+msgstr ""
+"Recherche par titre, genre, acteur, réalisateur, pays, studio ou année"
+
+msgctxt "#31560"
+msgid "Search by Title, Genre, Actor, Studio, Year or Episode"
+msgstr "Recherche par titre, genre, acteur, studio, année ou épisode"
+
+msgctxt "#31561"
+msgid "Additional info icons color"
+msgstr "Couleur des icônes d'informations supplémentaires"
+
+msgctxt "#31562"
+msgid "Recommended Movies"
+msgstr "Films recommandés"
+
+msgctxt "#31563"
+msgid "Popular"
+msgstr "Populaire"
+
+msgctxt "#31564"
+msgid "Widgets"
+msgstr "Widgets"
+
+msgctxt "#31565"
+msgid "Open submenu"
+msgstr "Sous-menu ouvert"
+
+msgctxt "#31567"
+msgid "Simple list (PVR)"
+msgstr "Liste simple (PVR)"
+
+msgctxt "#31568"
+msgid "Enable indicator for unwatched items"
+msgstr "Activer l'indicateur pour les articles non fixés"
+
+msgctxt "#31569"
+msgid "Media listitem text color"
+msgstr "Couleur de texte de listing de médias"
+
+msgctxt "#31570"
+msgid "Media listitem focus text color"
+msgstr "Couleur du texte de mise au point des médias"
+
+msgctxt "#31571"
+msgid "Media listitem focus color"
+msgstr "Couleur de mise au point des listes de médias"
+
+msgctxt "#31572"
+msgid "Video info additional info text color"
+msgstr "Informations vidéo Informations supplémentaires Couleur du texte"
+
+msgctxt "#31573"
+msgid "OSD progress bar buffer cache color"
+msgstr "Couleur du cache du tampon de la barre de progression OSD"
+
+msgctxt "#31574"
+msgid "Background color diffuse"
+msgstr "Couleur d'arrière-plan diffus"
+
+msgctxt "#31575"
+msgid "Similar Movies"
+msgstr "Films similaires"
+
+msgctxt "#31576"
+msgid "Similar TV Shows"
+msgstr "Séries TV similaires"
+
+msgctxt "#31577"
+msgid "New Movies"
+msgstr "Nouveaux films"
+
+msgctxt "#31578"
+msgid "There are no matches for your search."
+msgstr "Il n'y a pas de correspondance pour votre recherche."
+
+msgctxt "#31579"
+msgid "Episode titles related to"
+msgstr "Titres d'épisode liés à"
+
+msgctxt "#31580"
+msgid "Music videos title related to"
+msgstr "Titre des clips liés à"
+
+msgctxt "#31581"
+msgid "OSD plot text color"
+msgstr "Couleur du texte de l'intrigue OSD"
+
+msgctxt "#31582"
+msgid "OSD sublabel text color"
+msgstr "Couleur du texte de la sous-sublabel OSD"
+
+msgctxt "#31583"
+msgid "Rating color in details row"
+msgstr "Couleur de notation dans les détails Row"
+
+msgctxt "#31584"
+msgid "Search TMDb Helper"
+msgstr "Rechercher TMDb Helper"
+
+msgctxt "#31585"
+msgid "Diffuse color for lyrics overlay"
+msgstr "Couleur diffuse pour la superposition des paroles"
+
+msgctxt "#31586"
+msgid "Because you watched"
+msgstr "Parce que tu as regardé"
+
+msgctxt "#31587"
+msgid "Search library"
+msgstr "Bibliothèque de recherche"
+
+msgctxt "#31588"
+msgid "OSD info panel"
+msgstr "Panneau d'information OSD"
+
+msgctxt "#31589"
+msgid "Movies"
+msgstr "Films"
+
+msgctxt "#31590"
+msgid "Shows"
+msgstr "Séries TV"
+
+msgctxt "#31591"
+msgid "People"
+msgstr "Personnes"
+
+msgctxt "#31592"
+msgid "Enable auto pause on OSD open"
+msgstr "Activer la pause automatique sur OSD Open"
+
+msgctxt "#31593"
+msgid "Album titles related to"
+msgstr "Titres d'album liés à"
+
+msgctxt "#31594"
+msgid "Enable ratings"
+msgstr "Activer les notes"
+
+msgctxt "#31595"
+msgid "Select which details to show in video info"
+msgstr "Sélectionnez les détails à afficher dans les informations vidéo"
+
+msgctxt "#31596"
+msgid ""
+"Set default 'Select' action to show information (only applies to widgets)"
+msgstr ""
+"Définir l'action par défaut «Sélectionner» pour afficher les informations "
+"(ne s'applique qu'aux widgets)"
+
+msgctxt "#31597"
+msgid "Total duration"
+msgstr "Durée totale"
+
+msgctxt "#31598"
+msgid "IMDB Rating"
+msgstr "Évaluation IMDB"
+
+msgctxt "#31599"
+msgid "Show infopanel right"
+msgstr "Montrez le droit infopanel"
+
+msgctxt "#31600"
+msgid "Align tags in center"
+msgstr "Aligner les étiquettes au centre"
+
+msgctxt "#31601"
+msgid "Sideblade/options menu panel color"
+msgstr "Couleur du panneau de menu Sideblade / Options"
+
+msgctxt "#31602"
+msgid "Menu color settings"
+msgstr "Paramètres de couleur du menu"
+
+msgctxt "#31603"
+msgid "Label overlays on posters and thumbs panel color"
+msgstr ""
+"Superpositions d'étiquette sur les affiches et la couleur du panneau des "
+"pouces"
+
+msgctxt "#31604"
+msgid "Label overlays on posters and thumbs text color"
+msgstr ""
+"Étiquette des superpositions sur les affiches et la couleur du texte des "
+"pouces"
+
+msgctxt "#31605"
+msgid "Border color for fixed MPAA panel"
+msgstr "Couleur de bordure pour panneau MPAA fixe"
+
+msgctxt "#31606"
+msgid "Metacritic Rating"
+msgstr "Cote métacritique"
+
+msgctxt "#31607"
+msgid "Trakt Rating"
+msgstr "Note Trakt"
+
+msgctxt "#31608"
+msgid "Oscar"
+msgstr "oscar"
+
+msgctxt "#31609"
+msgid "Show air date instead year of episode"
+msgstr "Afficher la date de diffusion au lieu de l'année de l'épisode"
+
+msgctxt "#31610"
+msgid "IMDB Top 250"
+msgstr "IMDB TOP 250"
+
+msgctxt "#31611"
+msgid "Rotten Tomatoes Fresh Certified"
+msgstr "Rotten Tomatoes Fresh certifiées"
+
+msgctxt "#31612"
+msgid "Rotten Tomatoes Audience Rating"
+msgstr "Évaluation d'audience Rotten Tomatoes"
+
+msgctxt "#31613"
+msgid "TV Shows Hub"
+msgstr "Séries TV Hub"
+
+msgctxt "#31614"
+msgid "for You"
+msgstr "pour toi"
+
+msgctxt "#31615"
+msgid "Plot & Critics"
+msgstr "Intrigue et critiques"
+
+msgctxt "#31616"
+msgid "Enable mini guide on fullscreen live TV"
+msgstr "Activer le mini guide sur la télévision en direct à plein écran"
+
+msgctxt "#31617"
+msgid "Animate music background"
+msgstr "Animer le fond musical"
+
+msgctxt "#31618"
+msgid "Layout for Widget"
+msgstr "Disposition du widget"
+
+msgctxt "#31619"
+msgid "Prefer trailers from YouTube in 'Trailers & More'"
+msgstr "Préférez les bandes-annonces de YouTube dans «Bandes-annonces et plus»"
+
+msgctxt "#31620"
+msgid "Random Movies"
+msgstr "Films aléatoires"
+
+msgctxt "#31621"
+msgid "Plot text color"
+msgstr "Tracer la couleur du texte"
+
+msgctxt "#31622"
+msgid "More Like This"
+msgstr "Vous aimerez aussi..."
+
+msgctxt "#31623"
+msgid "Select weather icons"
+msgstr "Sélectionnez les icônes météo"
+
+msgctxt "#31624"
+msgid "Select weather fanart"
+msgstr "Sélectionner la météo fanart"
+
+msgctxt "#31625"
+msgid "New & Popular"
+msgstr "New & Popular"
+
+msgctxt "#31626"
+msgid "Select movie genre icons"
+msgstr "Sélectionner les icônes de genre de film"
+
+msgctxt "#31627"
+msgid "Disable clearlogo (text title instead)"
+msgstr "Désactiver Clearlogo (titre de texte à la place)"
+
+msgctxt "#31628"
+msgid "Border size for focus frame"
+msgstr "Taille de la bordure pour le cadre de mise au point"
+
+msgctxt "#31629"
+msgid "Exit Netflix"
+msgstr "Quitter Netflix"
+
+msgctxt "#31630"
+msgid "Reboot"
+msgstr "Redémarrer"
+
+msgctxt "#31631"
+msgid "Power Off System"
+msgstr "Système de mise hors tension"
+
+msgctxt "#31632"
+msgid "Style for media/codec info"
+msgstr "Style pour les informations médiatiques/codecs"
+
+msgctxt "#31633"
+msgid "Last Releases TV Shows"
+msgstr "Dernières Sorties Séries TV"
+
+msgctxt "#31634"
+msgid "Auto trailer interval"
+msgstr "Intervalle entre les bandes-annonces automatiques"
+
+msgctxt "#31635"
+msgid "Horizontal navigation"
+msgstr "Navigation horizontale"
+
+msgctxt "#31636"
+msgid "Weather Alerts"
+msgstr "Alertes météorologiques"
+
+msgctxt "#31637"
+msgid "No active weather alerts"
+msgstr "Aucune alerte météorologique active"
+
+msgctxt "#31638"
+msgid "Not rated panel color"
+msgstr "Couleur du panneau non noté"
+
+msgctxt "#31639"
+msgid "MPAA font color"
+msgstr "Couleur de police MPAA"
+
+msgctxt "#31640"
+msgid "Surprise Me"
+msgstr "Surprenez moi"
+
+msgctxt "#31641"
+msgid "None (use current layout)"
+msgstr "Aucun (utilisez la disposition actuelle)"
+
+msgctxt "#31642"
+msgid "Onyx"
+msgstr "Onyx"
+
+msgctxt "#31643"
+msgid "Adults only panel color"
+msgstr "Couleur du panneau des adultes"
+
+msgctxt "#31644"
+msgid "Enable Snow effect on Home"
+msgstr "Activer l'effet de neige sur la maison"
+
+msgctxt "#31645"
+msgid "Restricted panel color"
+msgstr "Couleur du panneau restreint"
+
+msgctxt "#31646"
+msgid "Global background"
+msgstr "Contexte mondial"
+
+msgctxt "#31647"
+msgid "Parents strongly cautioned panel color"
+msgstr "Les parents ont fortement averti la couleur du panneau"
+
+msgctxt "#31648"
+msgid "Enable tags for episodes"
+msgstr "Activer les étiquettes pour les épisodes"
+
+msgctxt "#31649"
+msgid "Watch It Again Movies"
+msgstr "Regarder à nouveau les films"
+
+msgctxt "#31650"
+msgid "Watch It Again TV Shows"
+msgstr "Regarder à nouveau les Séries TV"
+
+msgctxt "#31651"
+msgid "Movie sets"
+msgstr "Ensembles de films"
+
+msgctxt "#31652"
+msgid "Remove rating"
+msgstr "Supprimer la cote"
+
+msgctxt "#31653"
+msgid "Disable Extra Fanart"
+msgstr "Désactiver le fanart supplémentaire"
+
+msgctxt "#31654"
+msgid "Back..."
+msgstr "Retour..."
+
+msgctxt "#31655"
+msgid "General audiences panel color"
+msgstr "Couleur du panneau général du public"
+
+msgctxt "#31656"
+msgid "Parental guidance suggested panel color"
+msgstr "Guide parentale Couleur du panneau suggéré"
+
+msgctxt "#31657"
+msgid "In library"
+msgstr "En bibliothèque"
+
+msgctxt "#31658"
+msgid "Delayed"
+msgstr "Retardé"
+
+msgctxt "#31659"
+msgid "TMDb Rating"
+msgstr "Note TMDB"
+
+msgctxt "#31660"
+msgid "Radio Channels"
+msgstr "Canaux radio"
+
+msgctxt "#31661"
+msgid "MPAA color panel"
+msgstr "Panneau de couleur MPAA"
+
+msgctxt "#31662"
+msgid "Thumbs Up/Down"
+msgstr "Pouce haut/bas"
+
+msgctxt "#31663"
+msgid "Thumbs up rate value"
+msgstr "Valeur de la note pouce haut"
+
+msgctxt "#31664"
+msgid "Thumbs down rate value"
+msgstr "Valeur de la note pouce bas"
+
+msgctxt "#31665"
+msgid "Show artist logo on fullscreen music playback"
+msgstr "Logo d'artiste d'exposition sur la lecture de musique pleine écran"
+
+msgctxt "#31666"
+msgid "Recently Added Movies"
+msgstr "Films récemment ajoutés"
+
+msgctxt "#31667"
+msgid "Custom color settings"
+msgstr "Paramètres de couleur personnalisés"
+
+msgctxt "#31668"
+msgid "Playback & OSD"
+msgstr "Lecture et OSD"
+
+msgctxt "#31669"
+msgid "Hide ratings in Plot & Critics"
+msgstr "Masquer les notes dans l'intrigue et les critiques"
+
+msgctxt "#31670"
+msgid "Music playback"
+msgstr "Lecture musicale"
+
+msgctxt "#31671"
+msgid "Use compact header"
+msgstr "Utilisez un en-tête compact"
+
+msgctxt "#31672"
+msgid "Spotlight plot text color"
+msgstr "Couleur du texte de l'intrigue du projecteur"
+
+msgctxt "#31673"
+msgid "Do not display channel logo in the guide"
+msgstr "Ne pas afficher le logo de la chaîne dans le guide"
+
+msgctxt "#31674"
+msgid "Timer Rules"
+msgstr "Règles de minuterie"
+
+msgctxt "#31675"
+msgid "Display tags on widgets"
+msgstr "Afficher les balises sur les widgets"
+
+msgctxt "#31676"
+msgid "TV Guide"
+msgstr "Guide télévisé"
+
+msgctxt "#31677"
+msgid "TV Search"
+msgstr "Recherche TV"
+
+msgctxt "#31678"
+msgid "TV Recordings"
+msgstr "Enregistrements télévisés"
+
+msgctxt "#31679"
+msgid "General artwork & details options"
+msgstr "Options générales d’illustration et de détails"
+
+msgctxt "#31680"
+msgid "Panel"
+msgstr "Panneau"
+
+msgctxt "#31681"
+msgid "OSD buttons color"
+msgstr "Couleur des boutons OSD"
+
+msgctxt "#31682"
+msgid "OSD focus button color"
+msgstr "Couleur du bouton de mise au point OSD"
+
+msgctxt "#31683"
+msgid "Restore Menu Items"
+msgstr "Restaurer les éléments du menu"
+
+msgctxt "#31684"
+msgid "Video information dialog"
+msgstr "Boîte de dialogue d'informations vidéo"
+
+msgctxt "#31685"
+msgid "Volume indicator color"
+msgstr "Couleur de l'indicateur de volume"
+
+msgctxt "#31686"
+msgid "No items in hub."
+msgstr "Pas d'articles dans Hub."
+
+msgctxt "#31687"
+msgid "TV Channels"
+msgstr "Chaînes de télévision"
+
+msgctxt "#31688"
+msgid "Set custom content in home spotlight widget"
+msgstr "Définissez du contenu personnalisé dans le widget Home Spotlight"
+
+msgctxt "#31689"
+msgid "Season"
+msgstr "Saison"
+
+msgctxt "#31690"
+msgid "Episode"
+msgstr "Épisode"
+
+msgctxt "#31691"
+msgid "Similar"
+msgstr "Similaire"
+
+msgctxt "#31692"
+msgid "Configure ratings list"
+msgstr "Configurer la liste des notes"
+
+msgctxt "#31693"
+msgid "Home main menu line under icon"
+msgstr "Ligne du menu principal d'accueil sous l'icône"
+
+msgctxt "#31694"
+msgid "Choose Art"
+msgstr "Choisissez l'art"
+
+msgctxt "#31695"
+msgid "Select which buttons to show in video info"
+msgstr "Sélectionnez les boutons à afficher dans les informations vidéo"
+
+msgctxt "#31696"
+msgid "Supported addons"
+msgstr "Extensions supportés"
+
+msgctxt "#31697"
+msgid "Play From Beginning"
+msgstr "Jouer depuis le début"
+
+msgctxt "#31698"
+msgid "There are no comments for this content."
+msgstr "Il n'y a aucun commentaire pour ce contenu."
+
+msgctxt "#31699"
+msgid ""
+"No items in My List.[CR]Start adding Movies & TV Shows you like, just press "
+"the 'Add/Remove Watchlist' button from information page."
+msgstr ""
+"Aucun élément de ma liste. [CR] Commencez à ajouter des films et des "
+"Séries TV que vous aimez, appuyez simplement sur le bouton "
+"«Ajouter / supprimer la liste de surveillance» de la page d'informations."
+
+msgctxt "#31700"
+msgid "TV Shows Trending This Week"
+msgstr "Séries TV tendance cette semaine"
+
+msgctxt "#31701"
+msgid "Play Next Episode (TMDb Helper)"
+msgstr "Episode suivant (TMDB Helper)"
+
+msgctxt "#31702"
+msgid "Configure header for all windows (except home)"
+msgstr "Configurer l'en-tête pour toutes les fenêtres (sauf la maison)"
+
+msgctxt "#31703"
+msgid "Configure header for home screen"
+msgstr "Configurer l'en-tête pour l'écran d'accueil"
+
+msgctxt "#31704"
+msgid "Settings for header"
+msgstr "Paramètres de l'en-tête"
+
+msgctxt "#31705"
+msgid "Clock"
+msgstr "Horloge"
+
+msgctxt "#31706"
+msgid "Reload"
+msgstr "Rafraichir"
+
+msgctxt "#31707"
+msgid "IMDB Top 250 TV Shows"
+msgstr "IMDB TOP 250 Séries TV"
+
+msgctxt "#31708"
+msgid "Lock widgets in hubs"
+msgstr "Verrouiller les widgets dans les hubs"
+
+msgctxt "#31709"
+msgid ""
+"You can configure custom search in the Configure shortcuts/Customize search "
+"menu."
+msgstr ""
+"Vous pouvez configurer la recherche personnalisée dans le menu de recherche "
+"de raccourcis / personnaliser."
+
+msgctxt "#31710"
+msgid "Are you sure you want to remove the rating for show?"
+msgstr "Êtes-vous sûr de vouloir supprimer la note de la séries TV?"
+
+msgctxt "#31711"
+msgid "Are you sure you want to remove the rating for movie?"
+msgstr "Êtes-vous sûr de vouloir supprimer la note du film?"
+
+msgctxt "#31712"
+msgid "Position"
+msgstr "Position"
+
+msgctxt "#31713"
+msgid "pixels"
+msgstr "pixels"
+
+msgctxt "#31714"
+msgid "Enable tags for music"
+msgstr "Activer les balises pour la musique"
+
+msgctxt "#31715"
+msgid "Configure individually per-widget"
+msgstr "Configurer individuellement par widget"
+
+msgctxt "#31716"
+msgid "Show large scrolling text while music playback"
+msgstr "Montrez un grand texte de défilement pendant la lecture de la musique"
+
+msgctxt "#31717"
+msgid "Skin resources settings"
+msgstr "Paramètres des ressources du skin"
+
+msgctxt "#31718"
+msgid "Details row text color"
+msgstr "Détails Couleur du texte de la ligne"
+
+msgctxt "#31719"
+msgid "Select delay interval for auto trailers"
+msgstr "Sélectionnez l'intervalle de temps pour les bandes-annonces"
+
+msgctxt "#31720"
+msgid "Enable letters pop-up while scrolling"
+msgstr "Activer les lettres pop-up tout en faisant défiler"
+
+msgctxt "#31721"
+msgid "Title of current (random) background (if available)"
+msgstr "Titre de l'arrière-plan actuel (aléatoire) (si disponible)"
+
+msgctxt "#31722"
+msgid "Home main menu/submenu text color"
+msgstr "Menu principal à la maison / Couleur de texte sous-menu"
+
+msgctxt "#31723"
+msgid "Home main menu/submenu focused text color"
+msgstr "Menu principal à domicile / Couleur de texte axé sur le sous-menu"
+
+msgctxt "#31724"
+msgid "Video playback"
+msgstr "Lecture vidéo"
+
+msgctxt "#31725"
+msgid "Enable quick-jump alphabet navigation strip"
+msgstr "Activer la bande de navigation de l'alphabet à saute rapide"
+
+msgctxt "#31726"
+msgid "Randomize images (multi-image only)"
+msgstr "Randomiser les images (multi-images uniquement)"
+
+msgctxt "#31727"
+msgid "Show info"
+msgstr "Afficher les informations"
+
+msgctxt "#31728"
+msgid "Always hide"
+msgstr "Toujours cacher"
+
+msgctxt "#31729"
+msgid "Default palette for color picker"
+msgstr "Palette par défaut pour le sélectionneur de couleurs"
+
+msgctxt "#31730"
+msgid "Select a default palette for color picker"
+msgstr "Sélectionnez une palette par défaut pour le sélecteur de couleurs"
+
+msgctxt "#31731"
+msgid ""
+"You can select which palette is displayed by default when the color picker "
+"is called by the skin."
+msgstr ""
+"Vous pouvez sélectionner la palette affichée par défaut lorsque le sélecteur"
+" de couleurs est appelé par le skin."
+
+msgctxt "#31732"
+msgid "Enable auto scroll for plots/descriptions"
+msgstr "Activer le défilement automatique pour les parcelles / descriptions"
+
+msgctxt "#31733"
+msgid "Select movie genre fanart"
+msgstr "Sélectionnez Fanart de genre cinématographique"
+
+msgctxt "#31734"
+msgid "Rotten Tomatoes Rating"
+msgstr "Cote Rotten Tomatoes"
+
+msgctxt "#31735"
+msgid "Amber"
+msgstr "Ambre"
+
+msgctxt "#31736"
+msgid "PVR Guide unfocused item color"
+msgstr "Guide PVR Couleur de l'article non focalisé"
+
+msgctxt "#31737"
+msgid "PVR Guide focused item color"
+msgstr "Guide PVR Couleur de l'article focalisé"
+
+msgctxt "#31738"
+msgid "PVR Guide unfocused item text color"
+msgstr "Guide PVR Couleur de texte de l'élément non focalisé"
+
+msgctxt "#31739"
+msgid "PVR Guide focused item text color"
+msgstr "Guide PVR Couleur de texte de l'élément ciblé"
+
+msgctxt "#31740"
+msgid "Video process information"
+msgstr "Informations sur le processus vidéo"
+
+msgctxt "#31741"
+msgid "Hardware decoding"
+msgstr "Décodage matériel"
+
+msgctxt "#31742"
+msgid "Inactive"
+msgstr "Inactif"
+
+msgctxt "#31743"
+msgid "Decoder"
+msgstr "Décodeur"
+
+msgctxt "#31744"
+msgid "Audio Process Information"
+msgstr "Informations sur le processus audio"
+
+msgctxt "#31745"
+msgid "Player process info"
+msgstr "Informations sur le processus du joueur"
+
+msgctxt "#31746"
+msgid "Software"
+msgstr "Logiciel"
+
+msgctxt "#31747"
+msgid "Focused/active color for radiobuttons and spin controls"
+msgstr ""
+"Couleur focalisée / active pour les radiobutons et les commandes de spin"
+
+msgctxt "#31748"
+msgid "Enable indicator if item is playing or is recording/timer (PVR)"
+msgstr ""
+"Activer l'indicateur si l'article est en jeu ou enregistre / temporisateur "
+"(PVR)"
+
+msgctxt "#31749"
+msgid "color for play icon"
+msgstr "Couleur pour l'icône de jeu"
+
+msgctxt "#31750"
+msgid "Enable small PVR Channels OSD"
+msgstr "Activer les petits canaux PVR OSD"
+
+msgctxt "#31751"
+msgid "Autoplay trailer"
+msgstr "Bande-annonce automatique"
+
+msgctxt "#31752"
+msgid "Allow YouTube lookup for trailer if no trailer exists"
+msgstr "Autoriser la recherche YouTube pour la bande-annonce si aucune bande-annonce n'existe"
+
+msgctxt "#31753"
+msgid "YouTube videos"
+msgstr "Vidéos youtube"
+
+msgctxt "#31754"
+msgid "Auto play trailers for spotlight widget"
+msgstr "Lecture automatique des bandes-annonces pour le widget spotlight"
+
+msgctxt "#31755"
+msgid "Manage color themes"
+msgstr "Gérer les thèmes de couleur"
+
+msgctxt "#31756"
+msgid "Manage skin backups"
+msgstr "Gérer les sauvegardes du skin"
+
+msgctxt "#31757"
+msgid "Enable Zoom Effect"
+msgstr "Activer l'effet de zoom"
+
+msgctxt "#31758"
+msgid "Jump to a specific time (hh:mm:ss)"
+msgstr "Sautez à une heure spécifique (HH: MM: SS)"
+
+msgctxt "#31759"
+msgid "Enable OSD of buffering progess during video playback"
+msgstr "Activer l'OSD de la provocation tampon pendant la lecture vidéo"
+
+msgctxt "#31760"
+msgid "Volume indicator style"
+msgstr "Style indicateur de volume"
