@@ -1,3 +1,3 @@
 # Bingie
 
-Skin Kodi avec une présentation comme Netflix.
+Kodi skin with Netflix layout.
